@@ -26,11 +26,11 @@
 # Projeto Podcast Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido a partir de uma live no Youtube da [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Acesso ao repositório desenvolvido pelo professor a partir de uma live no Youtube da [DIO](https://dio.me)
 
 O desafio do Bootcamp "Microsoft 50 Anos - Prompts Inteligentes" tem o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
+Utilizei uma esteira de prompts no `ChatGPT` para gerar cada etapa do processo criativo.
 
 ## 💻 Tecnologias utilizadas no projeto:
 
@@ -41,10 +41,10 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## ✨ Como foi feito ?
 
-- Roteiro gerado via chatgpt
-- Audio gerado pela elevenLabs
-- Sora Para gerar capas
-- Capcut para tratar aúdio e adicionar sons de fundo
+- Roteiro gerado via `ChatGPT`
+- `Sora` Para gerar a capa do podcast
+- Áudio gerado pela `ElevenLabs`
+- `Capcut` para tratar áudio gerado e adicionar sons de fundo
 
 ## 📚 Materiais
 
@@ -62,12 +62,6 @@ Foram utilizados como exemplo os prompts dentro do link do `Notion` fornecido no
 - 🤖 3. Usei como exemplos prompts de roteiro gerados pelo `ChatGPT` no  `ElevenLabs` para gerar o áudio
 - 🤖 4. Usei como exemplos prompts de edição gerados pelo `ChatGPT` no  `CapCut`
 
-## 👨‍💻 Podcast - "Prompt Wars – A Vingança dos Tokens"
+## 👨‍💻 Podcast do Desafio - "Prompts Inteligentes"  
 
-<p align="center">
-    preview do podcast
-</p>
-
-<div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
-</div>
+[Podcast - "Prompt Wars – A Vingança dos Tokens" - Episódio I](https://github.com/soaresaj/prompts-inteligentes-dio-microsoft/blob/main/output/Desafio%20Prompts%20Inteligentes%20-%20CapCut%20.mp3)  
