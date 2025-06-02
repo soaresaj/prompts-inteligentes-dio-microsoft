@@ -18,6 +18,13 @@
 </a>
 </p>
 
+<p align="center">
+    Áudio do Podcast - Preview
+</p>
+
+<div align="center">
+    <audio src="assets/Som Podcast - ElevenLabs.MP3" controls title="Som do Podcast ElevenLabs"></audio>
+</div>
 
 # Projeto Podcast Gerado por I.A.s
 
