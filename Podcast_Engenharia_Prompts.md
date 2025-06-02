@@ -470,22 +470,30 @@ Abaixo está o plano de edição para o episódio 1 do podcast “Prompt Wars: A
 🧰 ****Recursos adicionais****  
 | Tipo | Arquivo/Link sugerido |
 |--------|--------|
-| Música | Pixabay - Galactic Empire March |
-| Fontes | Orbitron / Exo 2 (no CapCut ou Google Fonts) |
-| Vídeo |  looping terminal IA / Pexels Video |
-| Sons |  Zapsplat.com, Mixkit |
+| Música | Galactic Empire March - [Pixbay](https://pixabay.com/pt/music/) |
+| Fontes | Orbitron / Exo 2 - [CapCut](https://www.capcut.com/) ou [Google Fonts](https://fonts.google.com/)) |
+| Vídeo |  looping terminal IA - [Pexels Video](https://www.pexels.com/pt-br/videos/) |
+| Efeitos | [Mixkit](https://mixkit.co/) ou [Zapsplat](https://www.zapsplat.com/) |
 
 🎵 ****Música e Efeitos Sonoros****  
 | Tipo | Arquivo/Link sugerido |
 |--------|--------|
-| Música | Pixabay - Galactic Empire March |
-
+| Música | [star-wars-style-battle-music-148641](https://github.com/soaresaj/prompts-inteligentes-dio-microsoft/blob/main/assets/star-wars-style-battle-music-148641.mp3) |
+| Música | [atomic-pulse-ii-337273](https://github.com/soaresaj/prompts-inteligentes-dio-microsoft/blob/main/assets/atomic-pulse-ii-337273.mp3) |
+| Música | [cosmic-dawn-202873](https://github.com/soaresaj/prompts-inteligentes-dio-microsoft/blob/main/assets/cosmic-dawn-202873.mp3) |
+| Música | [artificial-intelligence-ai-v11-1177](https://github.com/soaresaj/prompts-inteligentes-dio-microsoft/blob/main/assets/artificial-intelligence-ai-v11-1177.mp3) |
+| Música | [mixkit-expressive-courage-468](https://github.com/soaresaj/prompts-inteligentes-dio-microsoft/blob/main/assets/mixkit-expressive-courage-468.mp3) |
+| Efeito | [lightsaber3-87667](https://github.com/soaresaj/prompts-inteligentes-dio-microsoft/blob/main/assets/lightsaber3-87667.mp3) |
+| Efeito | [robot-voice_dont-talk-to-me-279252](https://github.com/soaresaj/prompts-inteligentes-dio-microsoft/blob/main/assets/robot-voice_dont-talk-to-me-279252.mp3) |
+| Efeito | [blaster-fx-343681](https://github.com/soaresaj/prompts-inteligentes-dio-microsoft/blob/main/assets/blaster-fx-343681.mp3) |
+| Efeito | [sci-fi-sound-effect-designed-circuits-hum-24-200825](https://github.com/soaresaj/prompts-inteligentes-dio-microsoft/blob/main/assets/sci-fi-sound-effect-designed-circuits-hum-24-200825.mp3) |
+| Efeito | [notification-ping-335495](https://github.com/soaresaj/prompts-inteligentes-dio-microsoft/blob/main/assets/notification-ping-335495.mp3) |
 
 ---
 
 ## 📎 Recursos Extras
 
-- 📚 [Livro: The Art of Prompt Engineering](#)
-- 🎮 [Simulador de Prompts Gratuito](#)
-- 🎓 [Curso IA Generativa com ChatGPT – DIO](#)
-- 💼 [Perfil LinkedIn – Antonio Soares](#)
+- 📚 [Livro: The Art of Prompt Engineering](https://www.amazon.com.br/Art-Prompt-Engineering-chatGPT-Hands/dp/1739296710)
+- 🎮 [Simulador de Prompts Gratuito](https://musely.ai/pt/tools/online-prompt-generator)
+- 🎓 [Cursos IA Generativa](https://forbes.com.br/forbes-tech/2023/05/conheca-os-29-cursos-e-recursos-gratuitos-de-chatgpt-e-ia-generativa/)
+- 💼 [Perfil LinkedIn – Antonio Soares](https://www.linkedin.com/in/antoniosoares62/)
