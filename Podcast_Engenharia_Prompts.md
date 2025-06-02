@@ -175,27 +175,261 @@ epic sci-fi showdown between a futuristic Jedi-like figure and a dark fragmented
 **Resposta:** (Não gostei das imagens geradas no Midjourney e utilizei o mesmo prompt na "Sora" para gerar a capa)
 <p align="center">
 <img 
-    src="./assets/Capa Podcast(Sora).png"
+    src="./assets/Capa Podcast (Sora).png"
     width="300"
 />
 </p>
 
+## 📋 Roteiro Episódio 1 – *O Despertar do Prompt*
 
-
-
-
-
-
-
-
-
-### 🎧 Capa do Podcast - Prompt para o Midjourney  
 **Prompt:**  
-“Considerando a última resposta, converter esse conceito visual apresentado em um prompt 100% otimizado para o Midjourney v6.”.  
+“Você é um roteirista especializado em podcasts de inteligência artificial e cultura nerd. Crie um texto detalhado para o episódio do podcast "[ Prompt Wars: A Vingança dos Tokens]", com as seguintes características:  
+🎯 Parâmetros personalizados  
+•	Público-alvo: [PESSOAS INTERESSADAS POR TECNOLOGIA DE QUALQUER IDADE]  
+•	Duração estimada: [5 minutos]  
+•	Apresentador(a): [NOME: ANTONIO SOARES / ESTILO: comunicador descontraído com tom informativo]  
+•	Referência de estilo: [Jovem Nerd]  
+🧩 Estrutura obrigatória do episódio  
+🎬 Introdução Criativa:  
+o	Saudação e apresentação do tema  
+o	Frase de impacto ou citação “nerd” relacionada ao episódio  
+o	Breve sinopse do que será abordado  
+o	Conexão com o título/subtítulo do episódio  
+🧠 Bloco 1 – Contexto e Conceito  
+o	Definição de termos principais (ex: o que é engenharia de prompt)  
+o	Origem ou evolução do conceito  
+o	O que são frameworks e técnicas, e quais os mais utilizados  
+o	Analogias com universos nerds para facilitar a compreensão  
+🛠 Bloco 2 – Aplicações e Exemplos  
+o	Casos práticos e demonstrações de prompts  
+o	Comparações entre bons e maus prompts  
+o	Citações ou dados atuais sobre IA generativa  
+o	Dicas úteis para o ouvinte experimentar sozinho  
+🚀 Bloco 3 – Conexão com Cultura Pop ou Nerd  
+o	Referência cruzada com “Star Wars”, “Senhor dos Anéis”, “Jornada nas Estrelas” etc.  
+o	Metáforas criativas (ex: prompts como sabres de luz do cérebro digital)  
+o	Pergunta provocativa para engajamento  
+🎤 Encerramento com Chamada à Ação  
+o	Recapitulação dos pontos principais  
+o	Indicação de materiais extras (livros, cursos, sites, simuladores)  
+o	Convidar o ouvinte para enviar perguntas ou sugestões  
+o	Mensagem de despedida no estilo do apresentador  
+❌ Restrições  
+•	Não usar jargões técnicos sem explicação clara  
+•	Evitar termos excessivamente acadêmicos ou robotizados  
+•	Não ultrapassar a duração prevista  
+•	Não incluir linguagem ofensiva, elitista ou discriminatória  
+•	Manter tom [educativo e inspirador].”  
+**Resposta:**
+A seguir está o roteiro completo e detalhado do primeiro episódio do podcast “Prompt Wars: A Vingança dos Tokens”, com todos os elementos da sua estrutura e o tom inspirado no Jovem Nerd, leve e educativo, com linguagem acessível e referências nerds. A duração foi ajustada para 5 minutos, sendo direto, divertido e informativo.  
+🎙️ ***Podcast: Prompt Wars: A Vingança dos Tokens***  
+🎧 ***Episódio 1: O Despertar do Prompt***  
+🎬 ***Introdução Criativa***  
+🎙️ ***Antonio Soares (tom descontraído, empolgado)***  
+```
+"Salve, salve, rebeldes da tecnologia! Está começando o Prompt Wars: A Vingança dos Tokens, o podcast onde pequenos comandos despertam grandes inteligências artificiais!
+Hoje, vamos pilotar nossa Millenium Falcon rumo ao universo da engenharia de prompt. Se você acha que conversar com IA é só digitar qualquer coisa… jovem padawan, você ainda não conhece o poder do lado estruturado da Força.
+No episódio de hoje, vamos entender como um simples texto pode moldar o comportamento de uma IA — e por que isso é tão importante pra qualquer um que queira dominar essa nova era digital.
+Prepare seu sabre de luz — ou melhor, seu teclado — porque o jogo começou!"
+```
+🧠 ***Bloco 1 – Contexto e Conceito***  
+```
+"Vamos começar com o básico: o que é engenharia de prompt?
+Prompt, em linguagem de IA, é como uma instrução que você dá pra uma inteligência artificial gerar algo. Pode ser um texto, uma imagem, um código, uma música…
+E a engenharia de prompt é a arte — ou melhor, a estratégia — de formular essas instruções de forma clara, específica e eficiente pra obter os melhores resultados possíveis.
+Mas isso não surgiu do nada. Antes, a gente programava diretamente, com código puro. Agora, interagimos com linguagem natural. E isso criou a necessidade de aprender como perguntar melhor.
+Não é só ‘o que você pergunta’, mas como você pergunta — estilo Gandalf escolhendo palavras diante de um portão mágico.
+E sim, existem frameworks pra isso! Um dos mais populares é o R.A.C.E.: Role, Action, Context, Example. Ou seja: define o papel da IA, o que ela deve fazer, o contexto da tarefa, e dá exemplos.
+Outro é o C.O.T. (Chain of Thought), onde você encoraja a IA a pensar passo a passo. Parece com o raciocínio do Spock em missão lógica.
+Esses métodos ajudam a IA a entender melhor — e entregar mais."
+```
+🛠 ***Bloco 2 – Aplicações e Exemplos***  
+```
+"Vamos ver isso em ação!
+Prompt ruim: ‘Me fale sobre Marte’.
+Prompt bom: ‘Você é um guia turístico interplanetário. Crie um roteiro de viagem para um grupo de humanos explorando Marte pela primeira vez, incluindo curiosidades históricas, locais importantes e desafios logísticos.’
+Percebeu a diferença? No primeiro, você joga uma pergunta solta. No segundo, você molda o papel da IA, dá contexto, objetivo e até tom de voz.
+Atualmente, isso é usado por empresas, devs, professores, designers e até escritores. A IA generativa já está sendo usada pra criar roteiros de vídeos, material didático, atendimento automático e brainstorming de produtos.
+E a melhor parte? Você pode começar agora.
+Dica nerd: crie um diário de prompts! Teste variações, analise respostas, e monte seu próprio “grimório de encantamentos digitais” — como se fosse seu livro de magias de Hogwarts."
+```
+🚀 ***Bloco 3 – Conexão com Cultura Pop ou Nerd***  
+```
+"Imagina que cada prompt que você escreve é como um anel do poder. Se for mal formulado, a IA vira um Gollum confuso. Mas se for bem moldado… ela se transforma num Gandalf de silício!
+Ou pense assim: o prompt é como o holodeck da Enterprise. Você pode criar qualquer realidade... mas só se souber os comandos certos.
+E fica a pergunta nerd pra você:
+Se a IA fosse um Jedi, que tipo de mestre você seria: Obi-Wan, Yoda... ou Palpatine?
+Pense nisso quando for criar seu próximo prompt!"
+```
+🎤 ***Encerramento com Chamada à Ação***  
+```
+"Pra recapitular rapidinho:
+•	Prompt é a instrução que você dá pra IA.
+•	Engenharia de prompt é a arte de fazer isso direito.
+•	Use frameworks como R.A.C.E. ou C.O.T.
+•	Teste, repita, anote — e explore com criatividade!
+Quer aprender mais? Dá uma olhada nos links que a gente deixou na descrição: tem livro, curso gratuito, simuladores de IA e até jogos interativos pra praticar prompts.
+Se curtiu esse episódio, compartilha com seus aliados rebeldes — e manda suas dúvidas, sugestões ou prompts bizarros que você já usou.
+É só me procurar lá no LinkedIn: Antonio Soares.
+Nos vemos na próxima missão — e lembre-se: com grande poder, vem grandes prompts!"
+```
+📡 ***[Trilha sobe com efeito sci-fi]***  
+```
+"Prompt Wars: A Vingança dos Tokens" — porque até a Força precisa de boas instruções.
+```
+Se quiser, posso agora gerar a versão final do script editável em texto, um formato para gravação, ou até uma versão para gerar áudio com ElevenLabs. Deseja algum desses próximos passos?  
+
+## 📋 ElevenLabs - Roteiro Episódio 1 – *O Despertar do Prompt*
+
+**Prompt:**  
+"Apresentar uma versão para gerar áudio com ElevenLabs."  
 **Resposta:**  
-Abaixo está o prompt otimizado para o Midjourney v6, baseado no conceito visual da capa do podcast “Prompt Wars: A Vingança dos Tokens”:  
-🎯 ***Prompt Midjourney v6 (100% otimizado):***  
-epic sci-fi showdown between a futuristic Jedi-like figure and a dark fragmented AI entity, cosmic battlefield background with digital galaxy and circuit planets, floating glowing tokens resembling magical runes, neon blue and magenta lighting, cinematic composition, detailed character design, dramatic lighting, retro-futuristic typography in title , “PROMPT WARS”, style of Star Wars, digital hologram subtitle, “A VINGANÇA DOS TOKENS”, below, atmospheric space dust and glowing data streams, dark high-tech color palette, ultra-detailed, 8k, concept art style, cover layout, centered composition --v 6 --ar 1:1 --style raw --quality 2 --style photographic
+```
+Olá, ouvintes rebeldes da tecnologia! Está começando o Prompt Wars: A Vingança dos Tokens! — o podcast onde pequenos comandos despertam grandes inteligências artificiais!
+
+Se você acha que conversar com IA é só digitar qualquer coisa… Jovem padawan... você ainda não conhece o poder do lado estruturado da Força.
+
+No episódio de hoje, vamos entender como um simples texto pode moldar o comportamento de uma IA — e por que isso é tão importante pra quem quer dominar essa nova era.
+
+Vamos começar do começo:
+O que é engenharia de prompt?
+
+Prompt é uma instrução que você dá pra uma inteligência artificial. Pode ser um texto, imagem, código, música...
+
+E a engenharia de prompt? É a arte de formular essas instruções de forma clara, específica... e poderosa. Poderosa mesmo, tipo... conjurar um feitiço do grimório digital!
+
+Antes, a gente programava com código puro. Agora, a linguagem natural é a ponte entre humanos e máquinas.
+
+Mas calma! Existem técnicas pra isso!
+
+Como o RACE
+
+(Role, Action, Context, Example),
+
+o COT
+
+(Chain of Thought) 
+
+e o ReAct, que mistura raciocínio e ação da IA.
+
+Esses frameworks são tipo os manuais dos Jedis da IA.
+
+Bora ver na prática?
+
+Prompt ruim: "Me fale sobre Marte."
+
+Prompt bom: "Você é um guia turístico interplanetário. Crie um roteiro para humanos explorando Marte, com curiosidades históricas, locais incríveis e desafios da missão."
+
+Sente a diferença?
+
+Empresas, educadores, designers... todo mundo tá usando isso pra criar conteúdos incríveis, automatizar tarefas e acelerar ideias.
+
+Anota aí: comece seu diário de prompts. Teste, repita, compare. Prompt é igual sabre de luz — só melhora com treino!
+
+Vamos nerdizar mais um pouco?
+
+Imagine: cada prompt é como um anel do poder. Se for mal formulado… a IA vira um Gollum confuso. Se for bem moldado… ela se transforma num Gandalf digital!
+
+Ou pense no holodeck da Enterprise: você cria qualquer realidade… mas só se souber os comandos certos!
+
+E aí vai uma provocação pra você refletir:
+Se a IA fosse um Jedi… você seria um Obi-Wan? Um Yoda? Ou… um Palpatine com prompts obscuros?
+
+Recapitulando:
+
+- Prompt é igual a
+instrução.
+- Engenharia de prompt é igual a
+estratégia poderosa.
+- Frameworks como RACE e COT são iguais a
+aliados.
+- Criatividade e teste são iguais a 
+sua arma secreta!
+
+Quer ir além?
+Na descrição tem links com cursos, livros e simuladores. Explore, experimente... e domine a Força dos Prompts.
+
+Gostou? Compartilha com seus aliados rebeldes. E me manda seu prompt mais maluco lá no LinkedIn — Antonio Soares.
+
+A gente se vê no próximo episódio... e lembre-se:
+Com grandes tokens, vêm grandes respostas!
+```
+
+
+
+
+
+
+
+
+
+### 👤 Apresentador: Antonio Soares  
+**Estilo:** Comunicador descontraído com tom informativo.  
+**Referência:** Jovem Nerd
+
+### 🎬 Introdução Criativa
+
+- Saudação + Citação Nerd  
+- Contexto da Engenharia de Prompt  
+- Conexão com o título
+
+> "Salve, salve, rebeldes da tecnologia! Está começando o *Prompt Wars*..."
+
+---
+
+### 🧠 Bloco 1 – Contexto e Conceito
+
+- O que é Prompt  
+- Evolução histórica  
+- Frameworks (RACE, COT)  
+- Analogias com Gandalf, Spock, portões mágicos etc.
+
+---
+
+### 🛠 Bloco 2 – Aplicações e Exemplos
+
+- Prompt ruim vs. bom  
+- Uso em educação, design, automação  
+- Diário de prompts (grimório digital)
+
+---
+
+### 🚀 Bloco 3 – Cultura Pop
+
+- Prompt como “anel do poder”  
+- Holodeck da Enterprise  
+- Pergunta nerd: que tipo de Jedi você seria?
+
+---
+
+### 🎤 Encerramento + CTA
+
+- Recapitulação  
+- Materiais extras  
+- Conecte-se via LinkedIn  
+- Frase final:  
+> “Com grandes tokens, vêm grandes respostas!”
+
+---
+
+## 🎧 Efeitos Sonoros & Trilha (CapCut)
+
+| Momento | Trilha | Efeito | Origem |
+|--------|--------|--------|--------|
+| Intro | “Galactic Empire March” | Lightsaber ignition | Pixabay / Zapsplat |
+| Transição | “Cosmic Glide” | Sci-fi whoosh | Uppbeat / Mixkit |
+| Bloco 1 | “Digital Pulse” | Data blast | YouTube Audio |
+| Bloco 2 | “Neural Network Drift” | | Free Music Archive |
+| Bloco 3 | “Future Awakens” | Digital ping | Mixkit / Freesound |
+
+
+
+
+
+
+
+
+
 
 
 
