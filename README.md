@@ -18,13 +18,10 @@
 </a>
 </p>
 
-<p align="center">
-    Áudio do Podcast - Preview
-</p>
+ 
+### 🎤 Áudio do Podcast - Preview  
+[Som do Podcast - ElevenLabs](https://github.com/soaresaj/prompts-inteligentes-dio-microsoft/blob/main/assets/Som%20Podcast%20-%20ElevenLabs.mp3)  
 
-<div align="center">
-    <audio src="assets/Som Podcast - ElevenLabs.MP3" controls title="Som do Podcast ElevenLabs"></audio>
-</div>
 
 # Projeto Podcast Gerado por I.A.s
 
