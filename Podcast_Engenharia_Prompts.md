@@ -173,6 +173,12 @@ Se desejar, posso converter essa descrição agora em um prompt otimizado para o
 epic sci-fi showdown between a futuristic Jedi-like figure and a dark fragmented AI entity, cosmic battlefield background with digital galaxy and circuit planets, floating glowing tokens resembling magical runes, neon blue and magenta lighting, cinematic composition, detailed character design, dramatic lighting, retro-futuristic typography in title, “PROMPT WARS”, style of Star Wars, digital hologram subtitle, “A VINGANÇA DOS TOKENS”, below, atmospheric space dust and glowing data streams, dark high-tech...
 ```
 **Resposta:** (Não gostei das imagens geradas no Midjourney e utilizei o mesmo prompt na "Sora" para gerar a capa)
+<p align="center">
+<img 
+    src="./assets/Capa Podcast(Sora).png"
+    width="300"
+/>
+</p>
 
 
 
