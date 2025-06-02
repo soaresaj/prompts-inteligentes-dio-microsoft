@@ -148,11 +148,11 @@ Considerando minha experiência como roteirista de podcast e os critérios de at
    
 ***Justificativa da escolha:***
 
-   •	Título curto, forte e impactante, com referência direta e reconhecível à saga Guerra nas Estrelas, o que desperta curiosidade           imediata.  
-   •	O trocadilho “Tokens” é altamente relevante para quem trabalha com IA e modelos de linguagem, funcionando tanto como humor              técnico quanto como dica do conteúdo.  
-   •	“A Vingança dos Tokens” sugere que há uma história por trás — excelente para um podcast que deseja não apenas ensinar, mas também       entreter com narrativas.  
-   •	Amplamente aplicável a temas como engenharia de prompt, custos de tokens, estratégias de otimização, e até debates éticos sobre o       uso da IA.  
-   •	Potencial para uma série de episódios temáticos, como “A Nova Esperança do Prompt”, “O Império do Overfitting Contra-Ataca”,            etc., criando uma identidade forte e sustentável para a marca do podcast.  
+   - Título curto, forte e impactante, com referência direta e reconhecível à saga Guerra nas Estrelas, o que desperta curiosidade           imediata.  
+   -  O trocadilho “Tokens” é altamente relevante para quem trabalha com IA e modelos de linguagem, funcionando tanto como humor              técnico quanto como dica do conteúdo.  
+   -  “A Vingança dos Tokens” sugere que há uma história por trás — excelente para um podcast que deseja não apenas ensinar, mas também       entreter com narrativas.  
+   -  Amplamente aplicável a temas como engenharia de prompt, custos de tokens, estratégias de otimização, e até debates éticos sobre o       uso da IA.  
+   -  Potencial para uma série de episódios temáticos, como “A Nova Esperança do Prompt”, “O Império do Overfitting Contra-Ataca”,            etc., criando uma identidade forte e sustentável para a marca do podcast.  
 
 ---
 
@@ -163,13 +163,16 @@ Considerando minha experiência como roteirista de podcast e os critérios de at
 Com base no título escolhido para o primeiro episódio — "Prompt Wars: A Vingança dos Tokens" — e o subtítulo "Descubra como pequenos comandos despertam grandes inteligências artificiais", aqui está uma sugestão de conceito visual para a capa do podcast:  
 🎨 ***Conceito Visual da Capa – “Prompt Wars: A Vingança dos Tokens”***  
    ***Estilo:*** Uma fusão épica entre “Guerra nas Estrelas” e estética cibernética de IA, com uma atmosfera dramática, intensa e simbólica.  
-   ***Elementos visuais principais:***  
-      •	Cenário futurista espacial: Um fundo que remete a uma galáxia digital, com planetas feitos de circuitos e constelações que lembram fluxos de dados.  
-      •	Dois personagens em duelo: Um personagem com túnica tecnológica (representando o Prompt Jedi) empunhando uma espada-luz em forma de token flutuante vs. uma entidade sombria e fragmentada (representando a IA fora de controle), em um confronto visualmente energético.  
-      •	Tokens flutuantes como runas: Espalhados pelo céu, os tokens simbolizam comandos de linguagem, brilhando como artefatos mágicos/cósmicos.  
-      •	Cores predominantes: Azul ciano e magenta para representar tecnologia e energia; fundo escuro com brilhos metálicos e detalhes neon.  
-      •	Tipografia nerd-futurista: O título “Prompt Wars” em estilo retrô sci-fi (lembrando os créditos de abertura de Star Wars) com o subtítulo menor em fonte digital limpa, abaixo.  
-***Atmosfera geral:*** Épica, misteriosa, tecnológica, com um leve toque de humor nerd. 
+   ***Elementos visuais principais:***
+   -  Cenário futurista espacial: Um fundo que remete a uma galáxia digital, com planetas feitos de circuitos e constelações que lembram fluxos de dados.  
+   -  Dois personagens em duelo: Um personagem com túnica tecnológica (representando o Prompt Jedi) empunhando uma espada-luz em forma de token flutuante vs. uma entidade sombria e fragmentada (representando a IA fora de controle), em um confronto visualmente energético.  
+   -  Tokens flutuantes como runas: Espalhados pelo céu, os tokens simbolizam comandos de linguagem, brilhando como artefatos mágicos/cósmicos.  
+   -  Cores predominantes: Azul ciano e magenta para representar tecnologia e energia; fundo escuro com brilhos metálicos e detalhes neon.  
+   -  Tipografia nerd-futurista: O título “Prompt Wars” em estilo retrô sci-fi (lembrando os créditos de abertura de Star Wars) com o subtítulo menor em fonte digital limpa, abaixo.
+
+   ***Atmosfera geral:***  
+   -  Épica, misteriosa, tecnológica, com um leve toque de humor nerd.  
+   
 Se desejar, posso converter essa descrição agora em um prompt otimizado para o Midjourney v6. Deseja?
 
 ---
@@ -195,41 +198,44 @@ epic sci-fi showdown between a futuristic Jedi-like figure and a dark fragmented
 **Prompt:**  
 “Você é um roteirista especializado em podcasts de inteligência artificial e cultura nerd. Crie um texto detalhado para o episódio do podcast "[ Prompt Wars: A Vingança dos Tokens]", com as seguintes características:  
 🎯 Parâmetros personalizados  
-•	Público-alvo: [PESSOAS INTERESSADAS POR TECNOLOGIA DE QUALQUER IDADE]  
-•	Duração estimada: [5 minutos]  
-•	Apresentador(a): [NOME: ANTONIO SOARES / ESTILO: comunicador descontraído com tom informativo]  
-•	Referência de estilo: [Jovem Nerd]  
+   -  Público-alvo: [PESSOAS INTERESSADAS POR TECNOLOGIA DE QUALQUER IDADE]  
+   -  Duração estimada: [5 minutos]  
+   -  Apresentador(a): [NOME: ANTONIO SOARES / ESTILO: comunicador descontraído com tom informativo]  
+   -  Referência de estilo: [Jovem Nerd]
+
 🧩 Estrutura obrigatória do episódio  
-🎬 Introdução Criativa:  
-o	Saudação e apresentação do tema  
-o	Frase de impacto ou citação “nerd” relacionada ao episódio  
-o	Breve sinopse do que será abordado  
-o	Conexão com o título/subtítulo do episódio  
-🧠 Bloco 1 – Contexto e Conceito  
-o	Definição de termos principais (ex: o que é engenharia de prompt)  
-o	Origem ou evolução do conceito  
-o	O que são frameworks e técnicas, e quais os mais utilizados  
-o	Analogias com universos nerds para facilitar a compreensão  
-🛠 Bloco 2 – Aplicações e Exemplos  
-o	Casos práticos e demonstrações de prompts  
-o	Comparações entre bons e maus prompts  
-o	Citações ou dados atuais sobre IA generativa  
-o	Dicas úteis para o ouvinte experimentar sozinho  
-🚀 Bloco 3 – Conexão com Cultura Pop ou Nerd  
-o	Referência cruzada com “Star Wars”, “Senhor dos Anéis”, “Jornada nas Estrelas” etc.  
-o	Metáforas criativas (ex: prompts como sabres de luz do cérebro digital)  
-o	Pergunta provocativa para engajamento  
-🎤 Encerramento com Chamada à Ação  
-o	Recapitulação dos pontos principais  
-o	Indicação de materiais extras (livros, cursos, sites, simuladores)  
-o	Convidar o ouvinte para enviar perguntas ou sugestões  
-o	Mensagem de despedida no estilo do apresentador  
+   -  🎬 Introdução Criativa:  
+      -  Saudação e apresentação do tema  
+      -  Frase de impacto ou citação “nerd” relacionada ao episódio  
+      -  Breve sinopse do que será abordado  
+      -  Conexão com o título/subtítulo do episódio  
+   -  🧠 Bloco 1 – Contexto e Conceito  
+      -  Definição de termos principais (ex: o que é engenharia de prompt)  
+      -  Origem ou evolução do conceito  
+      -  O que são frameworks e técnicas, e quais os mais utilizados  
+      -  Analogias com universos nerds para facilitar a compreensão  
+   -  🛠 Bloco 2 – Aplicações e Exemplos  
+      -  Casos práticos e demonstrações de prompts  
+      -  Comparações entre bons e maus prompts  
+      -  Citações ou dados atuais sobre IA generativa  
+      -  Dicas úteis para o ouvinte experimentar sozinho  
+   -  🚀 Bloco 3 – Conexão com Cultura Pop ou Nerd  
+      -  Referência cruzada com “Star Wars”, “Senhor dos Anéis”, “Jornada nas Estrelas” etc.  
+      -  Metáforas criativas (ex: prompts como sabres de luz do cérebro digital)  
+      -  Pergunta provocativa para engajamento  
+   -  🎤 Encerramento com Chamada à Ação  
+      -  Recapitulação dos pontos principais  
+      -  Indicação de materiais extras (livros, cursos, sites, simuladores)  
+      -  Convidar o ouvinte para enviar perguntas ou sugestões  
+      -  Mensagem de despedida no estilo do apresentador
+
 ❌ Restrições  
-•	Não usar jargões técnicos sem explicação clara  
-•	Evitar termos excessivamente acadêmicos ou robotizados  
-•	Não ultrapassar a duração prevista  
-•	Não incluir linguagem ofensiva, elitista ou discriminatória  
-•	Manter tom [educativo e inspirador].”  
+   -  Não usar jargões técnicos sem explicação clara  
+   -  Evitar termos excessivamente acadêmicos ou robotizados  
+   -  Não ultrapassar a duração prevista  
+   -  Não incluir linguagem ofensiva, elitista ou discriminatória  
+   -  Manter tom [educativo e inspirador].”
+
 **Resposta:**
 A seguir está o roteiro completo e detalhado do primeiro episódio do podcast “Prompt Wars: A Vingança dos Tokens”, com todos os elementos da sua estrutura e o tom inspirado no Jovem Nerd, leve e educativo, com linguagem acessível e referências nerds. A duração foi ajustada para 5 minutos, sendo direto, divertido e informativo.  
 🎙️ ***Podcast: Prompt Wars: A Vingança dos Tokens***  
@@ -274,10 +280,10 @@ Pense nisso quando for criar seu próximo prompt!"
 🎤 ***Encerramento com Chamada à Ação***  
 ```
 "Pra recapitular rapidinho:
-•	Prompt é a instrução que você dá pra IA.
-•	Engenharia de prompt é a arte de fazer isso direito.
-•	Use frameworks como R.A.C.E. ou C.O.T.
-•	Teste, repita, anote — e explore com criatividade!
+• Prompt é a instrução que você dá pra IA.
+• Engenharia de prompt é a arte de fazer isso direito.
+• Use frameworks como R.A.C.E. ou C.O.T.
+• Teste, repita, anote — e explore com criatividade!
 Quer aprender mais? Dá uma olhada nos links que a gente deixou na descrição: tem livro, curso gratuito, simuladores de IA e até jogos interativos pra praticar prompts.
 Se curtiu esse episódio, compartilha com seus aliados rebeldes — e manda suas dúvidas, sugestões ou prompts bizarros que você já usou.
 É só me procurar lá no LinkedIn: Antonio Soares.
@@ -394,9 +400,10 @@ Para o seu podcast "Prompt Wars: A Vingança dos Tokens", que mistura inteligên
 | 🎯 Finalização com CTA | “Digital ping” | Som clean para reforçar chamadas à ação | Freesound |
 
 💡 ***Dicas de uso criativo no CapCut:***  
-•	Combine música de fundo com efeitos sutis nos momentos de virada do roteiro.  
-•	Diminua a trilha musical com "fade out" em falas importantes.  
-•	Insira o efeito de sabre de luz quando falar de "tokens", como se fosse uma batalha de prompts.  
+   -  Combine música de fundo com efeitos sutis nos momentos de virada do roteiro.  
+   -  Diminua a trilha musical com "fade out" em falas importantes.  
+   -  Insira o efeito de sabre de luz quando falar de "tokens", como se fosse uma batalha de prompts.
+
 Se quiser, posso montar uma estrutura editável no CapCut com marcações exatas para esses efeitos. Deseja que eu gere esse plano de edição?
 
 ---
@@ -415,51 +422,50 @@ Abaixo está o plano de edição para o episódio 1 do podcast “Prompt Wars: A
 
 🎞 ***LINHA DO TEMPO DE EDIÇÃO***  
 🟢 [00:00 – 00:08] ****Intro Cinematográfica****  
-•	🎵 Trilha: “Galactic Empire March” (vol. 85%)  
-•	🎧 Efeito: Lightsaber ignition (em [00:01])  
-•	🔈 Fade in de 1s na música  
-•	Texto animado na tela:  
-"Prompt Wars – A Vingança dos Tokens"  
-Fonte estilo Star Wars (Ex: Orbitron, disponível no CapCut)  
+   -  🎵 Trilha: “Galactic Empire March” (vol. 85%)  
+   -  🎧 Efeito: Lightsaber ignition (em [00:01])  
+   -  🔈 Fade in de 1s na música  
+   -  Texto animado na tela:  
+“Prompt Wars – A Vingança dos Tokens”: Fonte estilo Star Wars (Ex: Orbitron, disponível no CapCut)  
 
 🔵 [00:08 – 00:50] ****Introdução do Podcast****  
-•	🎵 Trilha contínua em volume reduzido (35%)  
-•	Efeito sonoro de Robot Startup logo após a frase “tema do episódio”  
-•	Inserir texto sobreposto com o subtítulo:  
+   -  🎵 Trilha contínua em volume reduzido (35%)  
+   -  Efeito sonoro de Robot Startup logo após a frase “tema do episódio”  
+   -  Inserir texto sobreposto com o subtítulo:  
 “Descubra como pequenos comandos despertam grandes inteligências artificiais”  
 
 🧠 [00:50 – 02:30] ****Bloco 1 – Conceitos e História****  
-•	🎵 Trilha: “Digital Pulse” (volume 25%)  
-•	Inserir 1 efeito Data Blast (sutil, [01:10]) após definição de “engenharia de prompt”  
-•	Zoom lento na imagem de fundo estilo terminal de IA (imagem estática ou vídeo em loop)  
-•	Tela dividida com balões textuais explicativos nos termos mais técnicos  
+   -  🎵 Trilha: “Digital Pulse” (volume 25%)  
+   -  Inserir 1 efeito Data Blast (sutil, [01:10]) após definição de “engenharia de prompt”  
+   -  Zoom lento na imagem de fundo estilo terminal de IA (imagem estática ou vídeo em loop)  
+   -  Tela dividida com balões textuais explicativos nos termos mais técnicos  
 
 🛠 [02:30 – 04:00] ****Bloco 2 – Exemplos e Aplicações****  
-•	🎵 Trilha: “Neural Network Drift” (volume 30%)  
-•	Inserir efeito Sci-fi whoosh nas transições de exemplos ([02:45] e [03:30])  
-•	Tela escura com luzes animadas no fundo (efeito “glow”)  
-•	Insira palavras-chave na tela conforme falado:  
-o	Prompt claro  
-o	Intenção  
-o	Temperatura  
-o	Output  
+   -  🎵 Trilha: “Neural Network Drift” (volume 30%)  
+   -  Inserir efeito Sci-fi whoosh nas transições de exemplos ([02:45] e [03:30])  
+   -  Tela escura com luzes animadas no fundo (efeito “glow”)  
+   -  Insira palavras-chave na tela conforme falado:  
+      -  Prompt claro  
+      -  Intenção  
+      -  Temperatura  
+      -  Output  
 
 🚀 [04:00 – 04:40] ****Bloco 3 – Cultura Nerd****  
-•	🎵 Trilha: “Cosmic Glide” (volume 40%)  
-•	Inserir efeito Sabre de Luz – batalha curta em [04:05] e [04:20]  
-•	Aparecem ícones animados de Star Wars / Jornada nas Estrelas ao lado das falas  
-•	Usar filtro “Sci-fi Blue” para dar clima galáctico  
+   -  🎵 Trilha: “Cosmic Glide” (volume 40%)  
+   -  Inserir efeito Sabre de Luz – batalha curta em [04:05] e [04:20]  
+   -  Aparecem ícones animados de Star Wars / Jornada nas Estrelas ao lado das falas  
+   -  Usar filtro “Sci-fi Blue” para dar clima galáctico  
 
 🔴 [04:40 – 05:00] ****Encerramento com CTA****  
-•	🎵 Trilha: “Future Awakens” com fade in (volume 60%, fade out ao final)  
-•	Inserir Digital Ping ao chamar para engajamento ([04:45])  
-•	Texto na tela:  
+   -  🎵 Trilha: “Future Awakens” com fade in (volume 60%, fade out ao final)  
+   -  Inserir Digital Ping ao chamar para engajamento ([04:45])  
+   -  Texto na tela:  
 “Curtiu o episódio? Envie sua dúvida pelo LinkedIn ou siga nosso podcast!”  
-•	Tela final com QR code ou redes sociais  
+   -  Tela final com QR code ou redes sociais  
 
 📌 ****Efeitos de transição entre blocos****  
-•	Use a transição "Círculo galáctico" ou “Energia” do CapCut entre blocos.  
-•	Duração: 1s com som Sci-fi whoosh  
+   -  Use a transição "Círculo galáctico" ou “Energia” do CapCut entre blocos.  
+   -  Duração: 1s com som Sci-fi whoosh  
 
 🧰 ****Recursos adicionais****  
 | Tipo | Arquivo/Link sugerido |
@@ -468,6 +474,12 @@ o	Output
 | Fontes | Orbitron / Exo 2 (no CapCut ou Google Fonts) |
 | Vídeo |  looping terminal IA / Pexels Video |
 | Sons |  Zapsplat.com, Mixkit |
+
+🎵 ****Música e Efeitos Sonoros****  
+| Tipo | Arquivo/Link sugerido |
+|--------|--------|
+| Música | Pixabay - Galactic Empire March |
+
 
 ---
 
